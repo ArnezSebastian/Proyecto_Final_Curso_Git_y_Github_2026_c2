@@ -1,5 +1,4 @@
-
-# Objetivos
+# Objetivos Principales
 
 - Crear un repositorio remoto.
-- Crear página personal del grupo de trabajo.
+- Crear página personal de nuestro grupo de trabajo.
